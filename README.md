@@ -51,8 +51,7 @@ EUIBuddy is a simple Scala chatbot designed to help users find information about
 
 ## Students:
 - Jana Mohamed Abdelhafeez 23-101097
-- Icel Tamer Hassan 23-101104
-- Roaa Yasser 24-101384
+
 
 ## Group Name: 
 - Lazy Evaluators
