@@ -1,4 +1,4 @@
-# EUIBuddy Chatbot Project
+# EUIBuddy Chatbot
 
 ## Overview:
 EUIBuddy is a simple Scala chatbot designed to help users find information about EUI such as faculties, campuses, contacts, GPA calculation, and more.
